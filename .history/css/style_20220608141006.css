@@ -1,0 +1,29 @@
+* {
+  font-family: "Lato", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  padding: 10%;
+  color: #ffffff;
+  display: inline-flex;
+  background-color: #d52047;
+}
+
+.info-box {
+  width: 50%;
+}
+
+.info-box p {
+  width:80% ;  
+  margin: 40px 0;
+}
+
+.big_img {
+  background-image: url("/image/Photo.png");
+  width: 533px;
+  height: 311px;
+}
