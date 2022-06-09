@@ -41,8 +41,9 @@ header {
   padding: 0 20px;
 }
 
-.big_img img {
-  width: 450px;
+.big_img {
+  background-image: url("Phoro.png");
+  width: 70%;
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
